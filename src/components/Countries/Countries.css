@@ -3,9 +3,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 10px
 }
-.countries{
-    border: 2px solid tomato;
-    border-radius: 10px;
-    font-size: 21px;
-    color: tomato;
+.flag-container img{
+    width: 100px;
+    height: 60px;
 }
